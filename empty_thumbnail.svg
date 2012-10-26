@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="1052.36"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="empty_thumbnail.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="18.420742"
+     inkscape:cy="860.30649"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="751"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-0.00218262)">
+    <rect
+       style="fill:#f5f5f5;fill-opacity:1;fill-rule:nonzero;stroke:#f00000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.2, 3.6;stroke-dashoffset:0"
+       id="rect2999"
+       width="980"
+       height="540"
+       x="-205.71425"
+       y="58.076458"
+       rx="20.175459"
+       inkscape:export-filename="/tmp/empty_thumbnail.gif.png"
+       inkscape:export-xdpi="25.873425"
+       inkscape:export-ydpi="25.873425" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:170.00000477%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-181.39455"
+       y="136.33646"
+       id="text2985"
+       sodipodi:linespacing="170%"
+       inkscape:export-filename="/tmp/empty_thumbnail.gif.png"
+       inkscape:export-xdpi="25.873425"
+       inkscape:export-ydpi="25.873425"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="-181.39455"
+         y="136.33646"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:start;line-height:170.00000477%;letter-spacing:-1.79999995px;word-spacing:-1px;writing-mode:lr-tb;text-anchor:start;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book"
+         dx="0">public class World{</tspan><tspan
+         sodipodi:role="line"
+         x="-181.39455"
+         y="204.33646"
+         id="tspan2989"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:start;line-height:170.00000477%;letter-spacing:-1.79999995px;word-spacing:-1px;writing-mode:lr-tb;text-anchor:start;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">    public static void main(String[] args){</tspan><tspan
+         sodipodi:role="line"
+         x="-181.39455"
+         y="272.33646"
+         id="tspan2991"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:start;line-height:170.00000477%;letter-spacing:-1.79999995px;word-spacing:-1px;writing-mode:lr-tb;text-anchor:start;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">        ;;/****///@ System system = new System(World) ;;;;;</tspan><tspan
+         sodipodi:role="line"
+         x="-181.39455"
+         y="340.33646"
+         id="tspan2993"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:start;line-height:170.00000477%;letter-spacing:-1.79999995px;word-spacing:-1px;writing-mode:lr-tb;text-anchor:start;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">        ;;;;;;;;System.exit(World.class.getModifiers());;;</tspan><tspan
+         sodipodi:role="line"
+         x="-181.39455"
+         y="408.33646"
+         id="tspan3001"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:start;line-height:170.00000477%;letter-spacing:-1.79999995px;word-spacing:-1px;writing-mode:lr-tb;text-anchor:start;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">        ;;;;//\\____@ System-&gt;now(return);;;;;;;</tspan><tspan
+         sodipodi:role="line"
+         x="-181.39455"
+         y="476.33646"
+         id="tspan2995"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:start;line-height:170.00000477%;letter-spacing:-1.79999995px;word-spacing:-1px;writing-mode:lr-tb;text-anchor:start;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">    }</tspan><tspan
+         sodipodi:role="line"
+         x="-181.39455"
+         y="544.33649"
+         id="tspan2997"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;text-align:start;line-height:170.00000477%;letter-spacing:-1.79999995px;word-spacing:-1px;writing-mode:lr-tb;text-anchor:start;font-family:URW Gothic L;-inkscape-font-specification:URW Gothic L Book">}</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4383"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4385"><rect
+           id="rect4387"
+           width="1385.7142"
+           height="908.57141"
+           x="-411.42856"
+           y="-139.06859" /></flowRegion><flowPara
+         id="flowPara4389"></flowPara></flowRoot>  </g>
+</svg>
